@@ -11,7 +11,8 @@ namespace golive_website
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Class1 c1 = new Class1();
+            c1.func();
         }
     }
 }
