@@ -7,5 +7,6 @@ namespace golive_website
 {
     public class Class1
     {
+        string c;
     }
 }
