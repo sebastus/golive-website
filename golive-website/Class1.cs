@@ -14,7 +14,7 @@ namespace golive_website
             c = "abc";
 
             int j;
-            j = 0;
+            j = 1;
             int i = 3 / j;
         }
     }
